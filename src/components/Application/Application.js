@@ -1,7 +1,10 @@
+import ApplicationContent from "../ApplicationContent/ApplicationContent";
 import ApplicationItem from "../ApplicationItem/ApplicationItem";
 import './Application.css';
 
 const Application = (props) => {
+
+
 return (
     <div className="applications">
         <ApplicationItem

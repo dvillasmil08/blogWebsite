@@ -3,8 +3,7 @@ import NavBar from "../NavBar/NavBar";
 const ApplicationContent = () => {
     return (
         <div>
-            <NavBar />
-
+            empty
         </div>
     );
 }

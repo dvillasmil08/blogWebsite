@@ -27,7 +27,6 @@
 
 }
 .application-item__status {
-    font-size: 1rem;
     font-weight: bold;
     color: white;
     background-color: #ba8f00;
@@ -46,7 +45,6 @@
         font-size: 1.25rem;
     }
     .application-item__status {
-        font-size: 1.25rem;
         padding: 0.5rem;
     }
 }

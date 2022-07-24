@@ -27,3 +27,6 @@
     justify-content: end;
     margin-left: 50rem;
 }
+a {
+    color: inherit;
+}

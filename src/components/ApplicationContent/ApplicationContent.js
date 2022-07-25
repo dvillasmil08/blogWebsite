@@ -1,5 +1,6 @@
 import './ApplicationContent.css';
 import Application from '../Application/Application';
+import NewComment from '../Comment/NewComment';
 
 const ApplicationContent = (props) => {
   return (
@@ -14,7 +15,8 @@ const ApplicationContent = (props) => {
         </div>
       </div>
       <div className='appBody'>
-        <p>Descripton{props.decription}</p>
+        <div>Descripton{props.decription}</div>
+        <NewComment />
       </div>
     </div>
   );

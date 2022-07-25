@@ -8,8 +8,10 @@ const ApplicationItem = (props) => {
     <div className='application-item'>
       <ApplicationDate date={props.date} />
       <div className='application-item__description'>
-        <Link to='/application'>
-          <h2>{props.title}</h2>
+        <Link to='/application' style={{ textDecoration: 'none' }}>
+          <h2>
+            <a>{props.title}</a>
+          </h2>
         </Link>
       </div>
 

@@ -5,7 +5,7 @@
     padding: 0.5rem;
     margin: 1rem 0;
     background-color: #4b4b4b;  
-    border-radius: 12px;
+    border-radius: 10px;
 
 }
 .application-item__description {
@@ -25,7 +25,7 @@ a:hover{
     font-size: 1rem;
     flex: 1;
     margin: 0 1rem;
-    border-radius: 12px;
+    border-radius: 10px;
     color: white;
 }
 .application-item__status {

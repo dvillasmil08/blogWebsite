@@ -1,11 +1,11 @@
 export const MenuItem = [
     {
-        title: 'Discord',
-        url: '#',
+        title: 'Home',
+        url: '/',
         cName: 'nav-link'
     },
     {
-        title: 'Youtube',
+        title: 'Discord',
         url: '#',
         cName: 'nav-link'
     },
